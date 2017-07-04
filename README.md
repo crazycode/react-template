@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ctco-dev/cra-ejected-ts-md-storybook-template.svg?branch=master)](https://travis-ci.org/ctco-dev/cra-ejected-ts-md-storybook-template)
+[![Build Status](https://travis-ci.org/ctco-dev/react-template.svg?branch=master)](https://travis-ci.org/ctco-dev/react-template)
 [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
